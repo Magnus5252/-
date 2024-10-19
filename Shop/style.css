@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color:  #F9F9F9;
+}
+ul{
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+
+    width: 1720px;
+    margin: 0 auto;
+}
+.nav-link{
+    font-size: 20px;
+    color: #707070;
+    margin-right: 80px;
+}
+.header-flex{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+    padding: 41px 0;
+}
+.hero-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hero-wrap{
+    width: 580px;
+}
+.hero-title{
+    color: black;
+    font-size: 48px;
+}
+.hero-text{
+    font-size: 24px;
+}
+button{
+    background-color: #779611;
+    color: #F9F9F9;
+    padding: 18px 70px;
+    font-size: 32px;
+    border-radius: 40px;
+    border: none;
+}
+.hero{
+    border-top: 2px solid #779611;
+    border-bottom: 2px solid #779611;
+}
+.shop-title{
+    font-size: 36px;
+    color: #779611;
+    margin-top: 80px;
+}
+.shop-text{
+    font-size: 20px;
+}
+.shop-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ flex-wrap: wrap;
+ width: 900px;
+}
+.shop-item h3{
+    font-size: 24px;
+    color: #779611;
+}
+.shop-item p{
+    font-size: 20px;
+}
+.header{
+    background-color: black;
+
+}
+.nav-link{
+    color: white; 
+}
+.nav-linkactive{
+    color: #779611;
+}
+.buttoncenter{
+ background: #B2FFA6;
+    color: black;
+    height: 66px;
+    top: 470px;
+    left: 150px;
+    border-radius: 5px;
+    padding: top 15px;;
+    padding: right 80px;
+    padding: bottom 15px;
+    padding: left 80px;
+    padding: gap 10px;
+    display: block;
+    margin: auto;
+
+    
+}
+.shop-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.shop-item{
+    width: 400px;
+}
+.Services-text{
+    width: 80%;
+    text-align: center;
+}
+.services-tytle{
+    text-align: center;
+}
+.Services{
+display: flex;
+justify-content: space-between;
+}
+.services-item{
+
+}
+.button-all-services{
+    background: #B2FFA6;
+    color: black;
+    height: 66px;
+    top: 470px;
+    left: 150px;
+    border-radius: 5px;
+    padding: top 15px;;
+    padding: right 80px;
+    padding: bottom 15px;
+    padding: left 80px;
+    padding: gap 10px;
+    display: block;
+    margin: auto;
+
+}
+footer{
+    background-color: #121212;
+    color:white ;
+}
+.footer-flex{display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ButtonDog{
+    background: #B2FFA6;
+    color: black;
+    height: 66px;
+    top: 470px;
+    left: 150px;
+    border-radius: 5px;
+    padding: top 15px;;
+    padding: right 80px;
+    padding: bottom 15px;
+    padding: left 80px;
+    padding: gap 10px;
+}
+.service{
+    padding:50px 0 ;
+
+}
+.shop-text{
+    font-size: 20px;
+}
+
+
